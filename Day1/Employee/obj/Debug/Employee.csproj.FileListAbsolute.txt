@@ -1,0 +1,7 @@
+C:\Users\Deepak\source\repos\Day1\Employee\bin\Debug\Employee.exe.config
+C:\Users\Deepak\source\repos\Day1\Employee\bin\Debug\Employee.exe
+C:\Users\Deepak\source\repos\Day1\Employee\bin\Debug\Employee.pdb
+C:\Users\Deepak\source\repos\Day1\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\Deepak\source\repos\Day1\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\Day1\Employee\obj\Debug\Employee.exe
+C:\Users\Deepak\source\repos\Day1\Employee\obj\Debug\Employee.pdb

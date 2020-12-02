@@ -1,0 +1,7 @@
+C:\Users\Deepak\source\repos\Day1\Assingnmet\bin\Debug\Assingnmet.exe.config
+C:\Users\Deepak\source\repos\Day1\Assingnmet\bin\Debug\Assingnmet.exe
+C:\Users\Deepak\source\repos\Day1\Assingnmet\bin\Debug\Assingnmet.pdb
+C:\Users\Deepak\source\repos\Day1\Assingnmet\obj\Debug\Assingnmet.csprojAssemblyReference.cache
+C:\Users\Deepak\source\repos\Day1\Assingnmet\obj\Debug\Assingnmet.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\Day1\Assingnmet\obj\Debug\Assingnmet.exe
+C:\Users\Deepak\source\repos\Day1\Assingnmet\obj\Debug\Assingnmet.pdb
