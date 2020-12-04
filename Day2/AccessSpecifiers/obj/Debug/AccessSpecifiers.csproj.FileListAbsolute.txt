@@ -1,0 +1,6 @@
+C:\Users\Deepak\source\repos\Day2\AccessSpecifiers\bin\Debug\AccessSpecifiers.dll
+C:\Users\Deepak\source\repos\Day2\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\Users\Deepak\source\repos\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.csprojAssemblyReference.cache
+C:\Users\Deepak\source\repos\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.dll
+C:\Users\Deepak\source\repos\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb

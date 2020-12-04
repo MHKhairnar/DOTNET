@@ -1,0 +1,2 @@
+C:\Users\Deepak\source\repos\Day2\Assingmnet2\obj\Debug\Assingmnet2.csprojAssemblyReference.cache
+C:\Users\Deepak\source\repos\Day2\Assingmnet2\obj\Debug\Assingmnet2.csproj.CoreCompileInputs.cache
