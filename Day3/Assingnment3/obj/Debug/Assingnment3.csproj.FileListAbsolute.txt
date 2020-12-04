@@ -1,0 +1,7 @@
+C:\Users\Deepak\source\repos\Day3\Assingnment3\bin\Debug\Assingnment3.exe.config
+C:\Users\Deepak\source\repos\Day3\Assingnment3\bin\Debug\Assingnment3.exe
+C:\Users\Deepak\source\repos\Day3\Assingnment3\bin\Debug\Assingnment3.pdb
+C:\Users\Deepak\source\repos\Day3\Assingnment3\obj\Debug\Assingnment3.csprojAssemblyReference.cache
+C:\Users\Deepak\source\repos\Day3\Assingnment3\obj\Debug\Assingnment3.csproj.CoreCompileInputs.cache
+C:\Users\Deepak\source\repos\Day3\Assingnment3\obj\Debug\Assingnment3.exe
+C:\Users\Deepak\source\repos\Day3\Assingnment3\obj\Debug\Assingnment3.pdb
